@@ -21,7 +21,7 @@ export default function App() {
 
         <p className="text-xl md:text-2xl bg-white/20 backdrop-blur-md px-6 py-4 rounded-2xl animate-pulse mb-6">
           Welcome To Frontend V3
-        </p
+        </p>
 
         <p className="text-lg max-w-2xl mb-8 text-gray-100">
           This is my first website built using modern technologies like React and Tailwind CSS.
